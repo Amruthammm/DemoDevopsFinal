@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1677421446,,"wq"
+|2,0,1677421907,,"wq"
 :w
 |2,0,1677419234,,"w"
 
@@ -30,14 +30,20 @@
 |3,1,36,0,1,0,1677419152,"e"
 
 # File marks:
-'0  1  17  ~/dr1/dr4/mysecondfile
-|4,48,1,17,1677421446,"~/dr1/dr4/mysecondfile"
-'1  1  24  ~/dr3/myfirstfile
-|4,49,1,24,1677419821,"~/dr3/myfirstfile"
-'2  2  26  ~/dr2/myfirstfile
-|4,50,2,26,1677419245,"~/dr2/myfirstfile"
+'0  1  26  ~/dr3/myfirstfile
+|4,48,1,26,1677421907,"~/dr3/myfirstfile"
+'1  1  17  ~/dr1/dr4/mysecondfile
+|4,49,1,17,1677421446,"~/dr1/dr4/mysecondfile"
+'2  1  24  ~/dr3/myfirstfile
+|4,50,1,24,1677419821,"~/dr3/myfirstfile"
+'3  2  26  ~/dr2/myfirstfile
+|4,51,2,26,1677419245,"~/dr2/myfirstfile"
 
 # Jumplist (newest first):
+-'  1  26  ~/dr3/myfirstfile
+|4,39,1,26,1677421907,"~/dr3/myfirstfile"
+-'  1  17  ~/dr1/dr4/mysecondfile
+|4,39,1,17,1677421446,"~/dr1/dr4/mysecondfile"
 -'  1  17  ~/dr1/dr4/mysecondfile
 |4,39,1,17,1677421446,"~/dr1/dr4/mysecondfile"
 -'  1  24  ~/dr3/myfirstfile
@@ -52,6 +58,22 @@
 |4,39,2,26,1677419245,"~/dr2/myfirstfile"
 -'  2  26  ~/dr2/myfirstfile
 |4,39,2,26,1677419245,"~/dr2/myfirstfile"
+-'  2  26  ~/dr2/myfirstfile
+|4,39,2,26,1677419245,"~/dr2/myfirstfile"
+-'  2  26  ~/dr2/myfirstfile
+|4,39,2,26,1677419245,"~/dr2/myfirstfile"
+-'  2  26  ~/dr2/myfirstfile
+|4,39,2,26,1677419245,"~/dr2/myfirstfile"
+-'  2  26  ~/dr2/myfirstfile
+|4,39,2,26,1677419245,"~/dr2/myfirstfile"
+-'  1  0  ~/dr2/myfirstfile
+|4,39,1,0,1677418932,"~/dr2/myfirstfile"
+-'  1  0  ~/dr2/myfirstfile
+|4,39,1,0,1677418932,"~/dr2/myfirstfile"
+-'  1  0  ~/dr2/myfirstfile
+|4,39,1,0,1677418932,"~/dr2/myfirstfile"
+-'  1  0  ~/dr2/myfirstfile
+|4,39,1,0,1677418932,"~/dr2/myfirstfile"
 -'  1  0  ~/dr2/myfirstfile
 |4,39,1,0,1677418932,"~/dr2/myfirstfile"
 -'  1  0  ~/dr2/myfirstfile
@@ -63,19 +85,19 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/dr3/myfirstfile
+	*	1677421904	0
+	"	1	26
+	^	1	27
+	.	1	26
+	+	1	26
+
 > ~/dr1/dr4/mysecondfile
 	*	1677421443	0
 	"	1	17
 	^	1	18
 	.	1	17
 	+	1	17
-
-> ~/dr3/myfirstfile
-	*	1677419816	0
-	"	1	24
-	^	1	25
-	.	1	24
-	+	1	24
 
 > ~/dr2/myfirstfile
 	*	1677419241	0
